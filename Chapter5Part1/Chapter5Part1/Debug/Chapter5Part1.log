@@ -1,0 +1,4 @@
+﻿  Chapter5Part1.cpp
+c:\users\user\documents\stephen-code-stuff\chapter5part1\chapter5part1\chapter5part1.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\stephen-code-stuff\chapter5part1\chapter5part1\chapter5part1.cpp(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Chapter5Part1.vcxproj -> C:\Users\User\Documents\Stephen-Code-Stuff\Chapter5Part1\Debug\Chapter5Part1.exe
