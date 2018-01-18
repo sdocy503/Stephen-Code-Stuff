@@ -9,6 +9,7 @@
 #include <sstream>
 #include <algorithm>
 #include <iterator>
+#include <iomanip>
 using namespace std;
 
 
@@ -38,16 +39,22 @@ int main() {
 			vector<string> results((istream_iterator<string>(iss)),
 				istream_iterator<string>());
 			//cout << results.back() << endl;
+			cout << results[2] << endl;
 			firstName = results[1];
 			lastName = results[0];
 			//string payString = results[2];
 			//string percentString = results[3];
 			pay = stod(results[2]);
 			percent = stod(results[3]);
+			
+			//pay = 80000.75f;
+			cout << fixed;
+			cout << setprecision(2) << firstName << " " << lastName << " " << pay << " " << percent << endl;
 			if (percent >= 6.0) {
 				pay = pay + 1000.0;
 			}
-			output << firstName << " " << lastName << " " << pay << endl;
+			output << fixed;
+			output << setprecision(2) << firstName << " " << lastName << " " << pay << endl;
 			results.resize(0);
 			
 			in.resize(in.size() - 1);
