@@ -1,2 +1,4 @@
 ﻿  a04.cpp
+c:\users\user\documents\stephen-code-stuff\a04\a04\a04.cpp(89): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\user\documents\stephen-code-stuff\a04\a04\a04.cpp(96): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
   a04.vcxproj -> C:\Users\User\Documents\Stephen-Code-Stuff\a04\Debug\a04.exe
