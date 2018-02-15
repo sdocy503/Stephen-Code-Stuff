@@ -1,0 +1,4 @@
+﻿  ch6Activity.cpp
+c:\users\user\documents\stephen-code-stuff\ch6activity\ch6activity\ch6activity.cpp(11): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\stephen-code-stuff\ch6activity\ch6activity\ch6activity.cpp(54): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  ch6Activity.vcxproj -> C:\Users\User\Documents\Stephen-Code-Stuff\ch6Activity\Debug\ch6Activity.exe
