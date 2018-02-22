@@ -1,0 +1,4 @@
+NewYork Delhi 1.99 2.00 0.45
+NewYork London 1.50 1.75 0.35
+Chicago Bombay 1.99 2.00 0.45
+Chicago Bangkok 1.75 1.95 0.40
